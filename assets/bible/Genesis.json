@@ -1,0 +1,20 @@
+{
+  "book": "Genesis",
+  "chapters": [
+    {
+      "chapter": 1,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "In the beginning God created the heaven and the earth.",
+          "notes": ["Some scholars note that 'beginning' may reference the timeless existence of the Word before creation."]
+        },
+        {
+          "verse": 2,
+          "text": "And the earth was without form, and void; and darkness was upon the face of the deep.",
+          "notes": ["The 'deep' may symbolize chaos before divine order."]
+        }
+      ]
+    }
+  ]
+}
